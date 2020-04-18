@@ -34,5 +34,3 @@ E-Mail: management@bluehorizn.net
 
 
 <a href="https://bluehorizn.com">English</a>
-
-<a href="Impressum.html">Impressum</a>
