@@ -32,6 +32,4 @@ E-Mail: management@bluehorizn.net
 
 ### Good bye!
 
-<a href="README.md">German</a>
-
-<button name="button1" onclick="blog.bluehorizn.net">Click me</button>
+<a href="bluehorizn.net">German</a>
