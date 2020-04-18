@@ -32,4 +32,4 @@ E-Mail: management@bluehorizn.net
 
 ### Good bye!
 
-<a href="README.md">Ger</a>
+<a href="README.md">German</a>
