@@ -34,4 +34,6 @@ E-Mail: management@bluehorizn.net
 ### Auf Wiedersehen!
 
 
-<a href="README_ENG.md">English</a> <a href="README_ENG.md">English</a>
+<a href="README_ENG.md">English</a>
+
+<a href="Impressum.md">Impressum</a>
