@@ -8,7 +8,7 @@ Jeder von uns hat schon in jungen jahren angefangen sich mit Soft-/ und Hardware
 Wir hoffen sie mit unseren Produkten zufrieden stimmen zu können und sie von der Elendigen suche nach guten angeboten für viel zu überteuerte software befreit zu haben.
 
 ```markdown
-Für mehr details über uns, diese Firma oder auch über die nächsten Projekte, schauen sie doch mal bei unseren Social Media Seiten oder unseren Blog vorbei: 
+Für mehr details über uns, diese Firma oder auch über die nächsten Projekte, schauen sie doch mal bei unseren Social Media Seiten oder unserem Blog vorbei: 
 
 Twitter: 
 	https://mobile.twitter.com/bluehorizn
@@ -34,4 +34,4 @@ E-Mail: management@bluehorizn.net
 ### Auf Wiedersehen!
 
 
-<a href="README_ENG.md">English</a>
+<a href="README_ENG.md">English</a> <a href="README_ENG.md">English</a>
