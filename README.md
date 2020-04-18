@@ -30,10 +30,11 @@ Bei Geschäfftlichen anfrangen können sie hier kontakt aufnehmen, woraufhin sic
 
 E-Mail: management@bluehorizn.net
 
-### Wir wünschen ihnen noch einen schönen tag, 
 ### Auf Wiedersehen!
 
 
 <a href="README_ENG.md">English</a>
 
 <a href="Impressum.md">Impressum</a>
+
+<button name="button1" onclick="blog.bluehorizn.net">Click me</button>
