@@ -1,35 +1,34 @@
-## Wilkommen
+## Wilkommen bei BlueHorizn
 
+### Wer sind wir?
 
+Wir von Blue Horizn sind ein frisch gegründetes Start-Up welches zum gegenwärtigen zeitpunkt nur aus uns drei gründern besteht. Wir verfolgen die philosophie das software einen den alltag erleichtern sollte ohne viel zu kosten. Denn wenn wir ganz erlich sind, ist hochwertige kostengünstige Software in der heutigen Zeit Mangelware.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jeder von uns hat schon in jungen jahren angefangen sich mit Soft-/ und Hardware außeinander zu setzten und schon da waren wir heufig, durch Wucherpreise gezwungen, auf illegal zur verfügung gestellte Softwarepakete zurückzugreifen.
+Wir hoffen sie mit unseren Produkten zufrieden stimmen zu können und sie von der Elendigen suche nach guten angeboten für viel zu überteuerte software befreit zu haben.
 
 ```markdown
-Syntax highlighted code block
+Für mehr details über uns, diese Firma oder auch über die nächsten Projekte, schauen sie doch mal bei unseren Social Media Seiten oder unseren Blog vorbei: 
 
-# Header 1
-## Header 2
-### Header 3
+Twitter: 
+	https://mobile.twitter.com/bluehorizn
 
-- Bulleted
-- List
+Instagram:
+	https://www.instagram.com/blue_horizn/
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Blog:
+	http://blog.bluehorizn.net
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Support und Kontakt
 
-### Jekyll Themes
+Bei fragen und anmerkungen zu unseren produkten können sie uns gerne hier kontaktieren:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mm299420/BlueHorizn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+E-Mail: Support@bluehorizn.net
 
-### Support or Contact
+Bei Geschäfftlichen anfrangen können sie hier kontakt aufnehmen, woraufhin sich einer von uns dreien bei ihnen umgehend zurück melden wird:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+E-Mail: management@bluehorizn.net
+
+### Wir wünschen ihnen noch einen schönen tag, 
+### Auf Wiedersehen!
