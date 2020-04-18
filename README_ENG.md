@@ -33,3 +33,5 @@ E-Mail: management@bluehorizn.net
 ### Good bye!
 
 <a href="README.md">German</a>
+
+<button name="German" onclick="README.md">Click me</button>
